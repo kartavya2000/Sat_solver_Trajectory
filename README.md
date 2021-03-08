@@ -1,4 +1,4 @@
-##Trajectory generation with miniSAT solver
+## Trajectory generation with miniSAT solver
 1. Pull the directory inside the directory where minisat executable is located. 
 2. The positions of obstacles are saved in `obstacles.txt` in the format:
    - First line gives the number of obstacles - K
